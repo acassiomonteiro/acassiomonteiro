@@ -8,7 +8,7 @@
  Sou Desenvolvedor Web e Designer especializado na criação de interfaces e experiência do usuário, com mais de 3 anos de experiência. Graduei-me como Técnico em Informática para Internet pelo IFMA e atualmente estou cursando Engenharia de Software na Universidade do Norte do Paraná.
 
 
-<h2 align="left">🦄 Pilhas:</h2>
+<h2 align="left">🦄 Stacks:</h2>
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -41,7 +41,7 @@
 <a href="https://www.instagram.com/acassiomonteiro.dev/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
-<br>
+<!-- <br>
 <tabela>
   <tr>
     <td>
@@ -92,4 +92,4 @@
     src="https://profile-counter.glitch.me/acassiomonteiro/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
-</p>
+</p> -->
